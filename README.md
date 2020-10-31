@@ -58,5 +58,23 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% file src=".gitbook/assets/e05fc50ad5975eb5b8630d0712ff4fdf.png" %}
 
+```javascript
+const name = `value`;
+
+```
+
+{% hint style="info" %}
+```javascript
+
+```
+
+test
+{% endhint %}
+
+|  |  |  |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
 
